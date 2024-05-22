@@ -1,0 +1,369 @@
+{
+    "BA": {
+        "chat_gpt": "Boeing will benefit from increased defense spending and potential growth in domestic aerospace manufacturing.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-industrial-stocks/",
+                "title": "10 Top Industrial Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CAT": {
+        "chat_gpt": "Caterpillar will see increased demand for its construction and mining equipment as domestic manufacturing and mining activities ramp up.",
+        "claude": "Caterpillar is a leading manufacturer of construction and mining equipment. With increased domestic manufacturing and mining, demand for Caterpillar's products could rise.",
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-industrial-stocks/",
+                "title": "10 Top Industrial Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/",
+                "title": "5 Best Industrial Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CMCSA": {
+        "chat_gpt": "Comcast will benefit from increased demand for news and media content in a chaotic political environment.",
+        "claude": "Comcast is a global media and technology company. Like Disney, it could potentially benefit from increased media consumption in a chaotic political and economic environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "DE": {
+        "chat_gpt": "Deere & Company will benefit from increased demand for its construction and mining equipment as domestic activities ramp up.",
+        "claude": "Deere & Company manufactures agricultural, construction, and forestry machinery. Increased domestic manufacturing could boost demand for their construction equipment.",
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-industrial-stocks/",
+                "title": "10 Top Industrial Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "F": {
+        "chat_gpt": "Ford Motor Company will benefit from a resurgence in domestic manufacturing and consumer preference for American-made cars.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "FOX": {
+        "chat_gpt": "Fox Corporation will benefit from increased viewership and advertising revenue in a politically charged environment.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "GE": {
+        "chat_gpt": "General Electric will benefit from increased demand for its industrial products and services in a resurgent domestic manufacturing sector.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-industrial-stocks/",
+                "title": "10 Top Industrial Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "GM": {
+        "chat_gpt": "General Motors will benefit from policies favoring domestic manufacturing and potentially increased consumer spending on American-made vehicles.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "HAL": {
+        "chat_gpt": "Halliburton will see increased demand for its oilfield services as domestic fossil fuel production rises.",
+        "claude": "Halliburton is one of the world's largest providers of products and services to the energy industry. Like Schlumberger, they could benefit from increased domestic oil and gas activity.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "MRO": {
+        "chat_gpt": "Marathon Oil will see increased demand for its oil and gas production services as domestic fossil fuel production rises.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "NUE": {
+        "chat_gpt": "Nucor Corporation will gain from increased demand for domestically produced steel for manufacturing and construction.",
+        "claude": "Nucor is the largest steel producer in the United States. Increased domestic manufacturing would likely increase demand for domestically produced steel.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "SLB": {
+        "chat_gpt": "Schlumberger will see increased demand for its oilfield services as domestic fossil fuel production rises.",
+        "claude": "Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Increased domestic fossil fuel production could increase demand for their services in the U.S.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "T": {
+        "chat_gpt": "AT&T will benefit from increased demand for media and communication services in a politically charged environment.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "UPS": {
+        "chat_gpt": "United Parcel Service will benefit from increased domestic manufacturing and shipping activities.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-industrial-stocks/",
+                "title": "10 Top Industrial Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "VLO": {
+        "chat_gpt": "Valero Energy will benefit from increased domestic refining activities and favorable regulatory changes.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "XOM": {
+        "chat_gpt": "Exxon Mobil will benefit from increased domestic fossil fuel production and favorable regulatory changes.",
+        "claude": "ExxonMobil is another leading integrated energy company that could benefit from increased domestic fossil fuel production.",
+        "search_articles": [
+            {
+                "url": "https://www.bankrate.com/investing/best-performing-energy-stocks/",
+                "title": "Best-performing energy stocks: May 2024 - Bankrate",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/best-energy-stocks",
+                "title": "How to Find the Best Energy Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "COP": {
+        "chat_gpt": null,
+        "claude": "ConocoPhillips is a large independent oil and gas exploration and production company with significant operations in the U.S. They could also benefit from increased domestic fossil fuel focus.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/energy/",
+                "title": "5 Best Energy Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CVX": {
+        "chat_gpt": null,
+        "claude": "Chevron is one of the world's leading integrated energy companies. Increased focus on domestic fossil fuels could benefit Chevron's U.S. operations.",
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/stocks/best-energy-stocks-buy",
+                "title": "Best Energy Stocks to Buy",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/energy/",
+                "title": "5 Best Energy Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/best-energy-stocks",
+                "title": "How to Find the Best Energy Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "DIS": {
+        "chat_gpt": null,
+        "claude": "Disney is a diversified entertainment company. The prediction suggests media companies could flourish in the anticipated chaos, which could benefit Disney.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "FCX": {
+        "chat_gpt": null,
+        "claude": "Freeport-McMoRan is a leading international mining company with significant operations in North America. Increased domestic mining could directly benefit the company.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GOOGL": {
+        "chat_gpt": null,
+        "claude": "Alphabet, the parent company of Google, is a leading technology company. Its diverse range of services, including YouTube, could potentially benefit from increased online media consumption.",
+        "search_articles": [
+            {
+                "url": "https://gwtoday.gwu.edu/social-media-companies-profiting-misinformation",
+                "title": "Social Media Companies Profiting from Misinformation",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "JNJ": {
+        "chat_gpt": null,
+        "claude": "J&J is a major healthcare company. Like P&G, its focus on domestic consumers could make it a stable investment choice in a nationalist economic environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "META": {
+        "chat_gpt": null,
+        "claude": "Meta, formerly Facebook, is a leading social media and technology company. Social media usage could potentially increase in a politically charged environment.",
+        "search_articles": [
+            {
+                "url": "https://gwtoday.gwu.edu/social-media-companies-profiting-misinformation",
+                "title": "Social Media Companies Profiting from Misinformation",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "NEM": {
+        "chat_gpt": null,
+        "claude": "Newmont is the world's largest gold mining company, with significant operations in the United States. Increased domestic mining could boost their U.S. operations.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "PG": {
+        "chat_gpt": null,
+        "claude": "P&G is a leading consumer goods company. In times of economic nationalism and potential trade disruptions, large domestic consumer goods companies like P&G could be seen as stable investments.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "X": {
+        "chat_gpt": null,
+        "claude": "U.S. Steel is an integrated steel producer with major production operations in the U.S. Like Nucor, they would benefit from increased domestic manufacturing.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "DJT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JunkSavvy/status/1790874444111728962",
+                "text": "\ud83d\udea8TRUMP MEDIA & TECHNOLOGY FILES 8K,  LETTER SENT TO US HOUSE OF REPRESENTATIVES COMMITTEES ON JUDICIARY, FINANCIAL SERVICES, WAYS & MEANS, AND OVERSIGHT & REFORM REQUESTING $DJT BLUE SHEET DATA FROM FIRMS THAT FASCILITATE SHORT SALES.\n\"On May 15, 2024, Trump Media & Technology Group Corp. (the \"Company\u201d) sent a letter addressed to each of the Chairmen of the U.S. House of Representatives\u2019 Committee on the Judiciary, Committee on Financial Services, Committee on Ways and Means and Committee on Oversight and Reform (the \"Third Congressional Letter\u201d) to follow on the previously disclosed letters, dated April 23, 2024 and May 1, 2024, addressed to the same. The Third Congressional Letter asks each of the chairmen to encourage the Financial Industry Regulatory Authority (\"FINRA\u201d) to issue, to firms that facilitate short sales, Electronic Blue Sheet requests pertaining to trading of the Company\u2019s stock on April 29, April 30, and May 1, 2024. The foregoing description of the Third Congressional Letter is subject to and qualified in its entirety by reference to the full text of the Third Congressional Letter, a copy of which is furnished as Exhibit 99.1 to this Current Report on Form8-K.\nhttps://t.co/yvlKJAZXyw\n#LetItBegin #BuckleUp #Incoming \n@DevinNunes  #TMTG #MMTLPFiasco\n$MMTLP $MMAT $TRCH $DJT $AMC $GTII $GME $BBIG $MULN $FNGR $CLNV $GNS $PLTR $MCOM $TSLA $COSM $NWBO $WULF $VIRI $BBBYQ $KODK $NVOS $KOSS",
+                "username": "JunkSavvy",
+                "user_url": "https://twitter.com/JunkSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1644527861121036288/z3WKnX1Y_normal.jpg",
+                "date": "2024-05-15T22:38:34Z"
+            },
+            {
+                "url": "https://twitter.com/JulianKlymochko/status/1790890842065895772",
+                "text": "On the day that Trump Media $DJT filed a NT 10-Q, meaning it was unable to file its 10-Q by the required deadline, management chose to write letters to politicians (and publish an 8-K) alleging \"potential manipulation of the stock\", citing a short-selling conspiracy theory\n\nThese are not serious people",
+                "username": "JulianKlymochko",
+                "user_url": "https://twitter.com/JulianKlymochko",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1741145704473690112/bH2AJRl1_normal.jpg",
+                "date": "2024-05-15T23:43:44Z"
+            },
+            {
+                "url": "https://twitter.com/JamessemaJ51927/status/1790559666902376624",
+                "text": "@FerdinandTheB13 BTW, a couple of weeks ago, @DevinNunes, former US congressman and CEO of Trump Media, referenced the #MMTLPfiasco in his letter to Congress demanding an investigation into naked short selling of $DJT and possible #RICO charges for Citadel Securities +3 other market manipulators.",
+                "username": "JamessemaJ51927",
+                "user_url": "https://twitter.com/JamessemaJ51927",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1702505218318168064/1M92QBhr_normal.jpg",
+                "date": "2024-05-15T01:47:46Z"
+            }
+        ]
+    },
+    "ETN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "LMT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/",
+                "title": "5 Best Industrial Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PH": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "TDG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "TT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/industrial-stocks",
+                "title": "Industrial Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
