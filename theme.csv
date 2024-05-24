@@ -1,5 +1,4 @@
 symbol,sources
-BA,"chat_gpt,google"
 CAT,"chat_gpt,claude,google"
 CMCSA,"chat_gpt,claude,google"
 DE,"chat_gpt,claude,google"
@@ -27,10 +26,10 @@ PG,claude
 X,claude
 DJT,twitter
 ETN,google
-LMT,google
 PH,google
 TDG,google
 TT,google
 RUM,experts
 BRCC,experts
 LNG,experts
+UNP,experts
