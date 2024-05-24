@@ -365,5 +365,17 @@
             }
         ],
         "tweets": []
+    },
+    "RUM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Video streaming platform that supports free speech, an alternative version of Youtube that is similar to Truth Social but with more success."
+            }
+        ]
     }
 }
