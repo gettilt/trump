@@ -401,5 +401,18 @@
                 "comment": "Black Rifle Coffee company has been a Trump favorite domestic coffee company. A Veteran founded, pro-military, pro-law enforcement and anti-hipster brand. "
             }
         ]
+    },
+        "UNP": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Increased domestic buildout will require shipping heavy resources and UNP is the leading railroad. "
+            }
+        ]
     }
+
 }
