@@ -55,7 +55,6 @@ with open('theme.csv') as file:
 ]]]-->
 | Ticker  | Context | Source |
 | ------- | ---- | ---- |
-| BA | Boeing will benefit from increased defense spending and potential growth in domestic aerospace manufacturing. | chat_gpt,google |
 | CAT | Caterpillar will see increased demand for its construction and mining equipment as domestic manufacturing and mining activities ramp up. | chat_gpt,claude,google |
 | CMCSA | Comcast will benefit from increased demand for news and media content in a chaotic political environment. | chat_gpt,claude,google |
 | DE | Deere & Company will benefit from increased demand for its construction and mining equipment as domestic activities ramp up. | chat_gpt,claude,google |
@@ -83,13 +82,13 @@ with open('theme.csv') as file:
 | X | U.S. Steel is an integrated steel producer with major production operations in the U.S. Like Nucor, they would benefit from increased domestic manufacturing. | claude |
 | DJT |  | twitter |
 | ETN |  | google |
-| LMT |  | google |
 | PH |  | google |
 | TDG |  | google |
 | TT |  | google |
 | RUM |  | experts |
 | BRCC |  | experts |
 | LNG |  | experts |
+| UNP |  | experts |
 <!--[[[end]]]-->
 
 ## License
