@@ -87,6 +87,7 @@ with open('theme.csv') as file:
 | PH |  | google |
 | TDG |  | google |
 | TT |  | google |
+| RUM |  | experts |
 <!--[[[end]]]-->
 
 ## License
