@@ -89,6 +89,9 @@ with open('theme.csv') as file:
 | BRCC |  | experts |
 | LNG |  | experts |
 | UNP |  | experts |
+| IBIT |  | experts |
+| MSTR |  | experts |
+| MARA |  | experts |
 <!--[[[end]]]-->
 
 ## License
